@@ -1,13 +1,11 @@
 # hello-world
 <html>
-<head>
 <style>
-body  {
-  background-image: url("https://wallimpex.com/data/out/309/ocean-landscape-wallpapers-6871064.jpg");
-  background-color: #cccccc;
-}
+.imazhi{
+  background-image: "https://wallimpex.com/file/load/309/1024x768-6871064-ocean-landscape-wallpapers.jpg"}
 </style>
+  
 <body>
-<h1>Hello world, im trying new things to work</h1>
+<h1 imazhi;>Hello world, im trying new things to work</h1>
 </body>
 </html>
