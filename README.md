@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-<!--
-<style>
+
+<!-- <style>
 
 .imazhi{
  background-image: url("/w3images/photographer.jpg");
@@ -11,8 +11,8 @@
   background-repeat: no-repeat;
   background-position: center;
   position: relative;
-  background-size: cover;
-  -->
+  background-size: cover; -->
+  
   
   }
 </style>
