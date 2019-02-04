@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-
+<!--
 <style>
 
 .imazhi{
@@ -12,7 +12,7 @@
   background-position: center;
   position: relative;
   background-size: cover;
-  
+  -->
   
   }
 </style>
