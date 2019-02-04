@@ -7,7 +7,7 @@ body  {
   background-color: #cccccc;
 }
 </style>
-
+<body>
 <h1>Hello world, im trying new things to work</h1>
 </body>
 </html>
